@@ -1,7 +1,7 @@
 ### Hi there, I'm Aman Mishra👋
 
 - 🔭 Currently working on some Awesome projects
-- 🌱 Always trying to learn as much as i can 🤣
+- 🌱 Always trying to learn as much as i can
 - 👯 Looking for Internship or job
 - 🥅 2021 Goals: Build a startup from a scratch
 - ⚡ Hobbies: I love to play PC games. watching movies and webseries, Hanging on internet are some of my favourite free time works.
