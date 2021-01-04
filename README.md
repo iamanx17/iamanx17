@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanx17&label=Profile%20views&color=0e75b6&style=flat" alt="iamanx17" /> </p>
+
+<p align="left"> <a href="https://twitter.com/iamanx17" target="blank"><img src="https://img.shields.io/twitter/follow/iamanx17?logo=twitter&style=for-the-badge" alt="iamanx17" /></a> </p>
 
 - 🔭 Currently working on **Chat-app**
 
@@ -14,15 +17,11 @@
 
 - ⚡ Fun fact **I love web-series and pc games**
 
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31qlnhdylxhdijjt75wydzpfhtum)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamanx17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamanx17" height="30" width="40" /></a>
+<a href="https://kaggle.com/iamanm17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="iamanm17" height="30" width="40" /></a>
 <a href="https://fb.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamanx17" height="30" width="40" /></a>
 <a href="https://instagram.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamanx17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iamanx17" height="30" width="40" /></a>
