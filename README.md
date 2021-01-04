@@ -46,9 +46,9 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Wakatime stats</summary>
 
 
-  <img align="left" alt="Aman Mishra wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamanx17)" />
+  <img align="left" alt="Aman Mishra wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamanx17)" />
 
 </details>
