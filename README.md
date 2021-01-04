@@ -44,3 +44,11 @@
   <img align="left" alt="Aman Mishra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamanx17&count_private=true" />
 
 </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+
+  <img align="left" alt="Aman Mishra wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamanx17)" />
+
+</details>
