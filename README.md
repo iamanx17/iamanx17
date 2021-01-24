@@ -11,7 +11,7 @@
 
 - 📝 My blog [https://thetopfakt.com](https://thetopfakt.com)
 
-- 💬 Ask me about **Django,Tensorflow,Keras**
+- 💬 Ask me about **Django,Python**
 
 - 📫 How to reach me **Pranj.17am@gmail.com**
 
