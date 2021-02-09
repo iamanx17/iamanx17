@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamanx17" target="blank"><img src="https://img.shields.io/twitter/follow/iamanx17?logo=twitter&style=for-the-badge" alt="iamanx17" /></a> </p>
 
-- 🔭 Currently working on **Chat-app**
+- 🔭 Currently working on **portfolio website**
 
-- 🌱 Currently learning **Keras and Tensorflow**
+- 🌱 Currently learning **rest**
 
 - 👯 Looking to collaborate **Platform based project**
 
-- 📝 My blog [https://thetopfakt.com](https://thetopfakt.com)
+- 📝 My blog [https://piratesventure.herokuapp.com/](https://piratesventure.herokuapp.com/)
 
 - 💬 Ask me about **Django,Python**
 
