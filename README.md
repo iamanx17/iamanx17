@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamanx17" target="blank"><img src="https://img.shields.io/twitter/follow/iamanx17?logo=twitter&style=for-the-badge" alt="iamanx17" /></a> </p>
 
-- 🔭 Currently working on **portfolio website**
+- 🔭 Currently working on **E-commerce website**
 
-- 🌱 Currently learning **rest**
+- 🌱 Currently learning **JavaScript**
 
 - 👯 Looking to collaborate **Platform based project**
 
@@ -26,7 +26,6 @@
 <p align="left">
 <a href="https://twitter.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamanx17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamanx17" height="30" width="40" /></a>
-<a href="https://kaggle.com/iamanm17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="iamanm17" height="30" width="40" /></a>
 <a href="https://fb.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamanx17" height="30" width="40" /></a>
 <a href="https://instagram.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamanx17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iamanx17" height="30" width="40" /></a>
