@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamanx17" target="blank"><img src="https://img.shields.io/twitter/follow/iamanx17?logo=twitter&style=for-the-badge" alt="iamanx17" /></a> </p>
 
-- 🔭 Currently working on **E-commerce website**
+- 🔭 Currently working on **Something creative**
 
 - 🌱 Currently learning **JavaScript**
 
