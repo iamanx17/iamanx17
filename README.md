@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **Something creative**
 
-- 🌱 Currently learning **JavaScript**
+- 🌱 Currently learning **Some new stuff**
 
 - 👯 Looking to collaborate **Platform based project**
 
