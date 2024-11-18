@@ -1,53 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanx17&label=Profile%20views&color=0e75b6&style=flat" alt="iamanx17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamanx17" target="blank"><img src="https://img.shields.io/twitter/follow/iamanx17?logo=twitter&style=for-the-badge" alt="iamanx17" /></a> </p>
+# 👋 Hello, I'm Aman Mishra!  
+**👨‍💻 Software Engineer | 🌐 Freelancer | 🚀 Problem Solver**  
 
-- 🔭 Currently working on **Something creative**
+---
 
-- 🌱 Currently learning **Some new stuff**
+### 🧑‍💼 About Me  
+- 💻 A passionate software engineer with **3+ years of experience** in crafting efficient and scalable solutions.  
+- 🎯 Expertise in **Node.js**, **Python**, and **building e-commerce platforms**.  
+- 🌱 Currently exploring **Shopify App Development** and **frontend design with WordPress and Blogger**.  
+- ✨ Strong focus on **business understanding** and working on enhancing **client interaction skills**.  
+- 🏆 Persevered through challenges, such as turning a rejected Shopify app into a functional solution!  
 
-- 👯 Looking to collaborate **Platform based project**
+---
 
-- 📝 My blog [https://piratesventure.herokuapp.com/](https://piratesventure.herokuapp.com/)
+### 🚀 Skills & Technologies  
+- **Programming**: Node.js, Python, JavaScript  
+- **Frameworks**: Express.js, Bootstrap   
+- **Databases**: MongoDB, DynamoDB, Postgres  
+- **Tools**: Git, AWS Lambda, Postman  
+- **Specialties**:  
+  - SaaS
+---
 
-- 💬 Ask me about **Django,Python**
+### 🎬 My Interests  
+- ✍️ Blogging: Sharing binge-worthy guides and movie reviews on my blog [ottcharcha.com](https://ottcharcha.com).  
+- 🍴 Health-conscious foodie with a knack for adapting to my "Vaata" body type!  
 
-- 📫 How to reach me **Pranj.17am@gmail.com**
+---
 
-- ⚡ Fun fact **I love web-series and pc games**
+### 📚 Featured Projects  
+- **[E-Commerce Platform](#)**: A robust online store built with Node.js and Bootstrap.  
+- **[SaaS Link Shortener](#)**: Simplified link management with a WordPress frontend and Node.js backend.  
+- **[Shopify App Development](#)**: Tackled rejection and created a viable solution for Shopify apps.  
 
-### Spotify Playing 🎧
+---
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aman Mishra Spotify Playing" width="350" />](https://open.spotify.com/user/31qlnhdylxhdijjt75wydzpfhtum)
+### 💬 Let's Connect!  
+- 🌐 **Portfolio**: [MyWebsite.com](#)  
+- 📧 **Email**: [iamanx17@gmail.com](mailto:iamanx17@gmail.com)  
+- 💼 **LinkedIn**: [iamanx17](#)  
+- 🐦 **Twitter**: [@iamanx17](#)  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamanx17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamanx17" height="30" width="40" /></a>
-<a href="https://fb.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamanx17" height="30" width="40" /></a>
-<a href="https://instagram.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamanx17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iamanx17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iamanx17" height="30" width="40" /></a>
-</p>
+### 🌟 Fun Fact  
+> “Great challenges build great solutions. I’ve lived this while transforming a Shopify rejection into a functional app!”  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-
-  <img align="left" alt="Aman Mishra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamanx17&count_private=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Wakatime stats</summary>
-
-
-  <img align="left" alt="Aman Mishra wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamanx17" />
-
-</details>
+📌 *Feel free to explore my repositories and get in touch for exciting collaborations!*
