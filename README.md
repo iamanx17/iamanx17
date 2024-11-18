@@ -21,6 +21,7 @@
 - **Tools**: Git, AWS Lambda, Postman  
 - **Specialties**:  
   - SaaS
+  - Shopify Development
 ---
 
 ### 🎬 My Interests  
