@@ -7,7 +7,7 @@
 
 ### 🧑‍💼 About Me  
 - 💻 A passionate software engineer with **3+ years of experience** in crafting efficient and scalable solutions.  
-- 🎯 Expertise in **Node.js**, **Python**, and **building e-commerce platforms**.  
+- 🎯 Expertise in **Node.js**, **Python**, and **building SaaS platforms**.  
 - 🌱 Currently exploring **Shopify App Development** and **frontend design with WordPress and Blogger**.  
 - ✨ Strong focus on **business understanding** and working on enhancing **client interaction skills**.  
 - 🏆 Persevered through challenges, such as turning a rejected Shopify app into a functional solution!  
